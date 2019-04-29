@@ -1,3 +1,3 @@
 module Foodie
-  VERSION = "0.1.0"
+  VERSION = "10.10.10"
 end
