@@ -1,0 +1,3 @@
+Examples:
+
+$ foodie hello
