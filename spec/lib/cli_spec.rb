@@ -13,7 +13,7 @@ describe Foodie::CLI do
   describe "foodie" do
     it "should hello world" do
       out = execute("exe/foodie hello world #{@args}")
-      expect(out).to include("from: Tung\nHello world")
+      expect(out).to include("from: Sobhi\nHello world")
     end
   end
 end

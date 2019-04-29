@@ -1,0 +1,6 @@
+example_id                     | status | run_time        |
+------------------------------ | ------ | --------------- |
+./spec/lib/cli_spec.rb[1:1:1]  | passed | 0.40533 seconds |
+./spec/lib/foodie_spec.rb[1:1] | passed | 0.00126 seconds |
+./spec/lib/foodie_spec.rb[1:2] | passed | 0.00013 seconds |
+./spec/lib/foodie_spec.rb[1:3] | passed | 0.00024 seconds |
