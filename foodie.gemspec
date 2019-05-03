@@ -35,7 +35,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'colorize'
   spec.add_dependency 'thor'
-  spec.add_dependency 'activesupport', '~> 4.2.0'
+  spec.add_dependency 'activesupport'
 
   spec.add_development_dependency 'bundler', '~> 2.0'
   spec.add_development_dependency 'byebug'
